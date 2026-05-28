@@ -102,16 +102,14 @@ Through this project, I learned:
 ---
 
 # Live Website Link
-```text
-https://your-store-link.myshopify.com
-```
+https://bmaffe-xy.myshopify.com/
+
 
 ---
 
 # GitHub Repository Link
-```text
-https://github.com/yourusername/nsr-parfum-store
-```
+
+
 
 ---
 
