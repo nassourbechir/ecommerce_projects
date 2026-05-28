@@ -62,13 +62,16 @@ home.png.png)
 ![Products](images/products.png)
 
 ## Product Page
-![Product Page](images/productpage.png)
+![Product Page](images/<img width="1858" height="697" alt="productspage" src="https://github.com/user-attachments/assets/116a3f30-87aa-4a87-ab12-9bb14cbd52a0" />
+productpage.png)
 
 ## Privacy Policy Page
-![Privacy Policy](images/privacy.png)
+![Privacy Policy](images/<img width="1882" height="629" alt="privacy" src="https://github.com/user-attachments/assets/8203449d-26a9-485a-a341-db7f2e06c4f3" />
+privacy.png)
 
 ## Contact Page
-![Contact](images/contact.png)
+![Contact](images/<img width="1883" height="706" alt="contact" src="https://github.com/user-attachments/assets/a12aef56-4e58-4b1e-a2e2-931351a4feac" />
+contact.png)
 
 ---
 
