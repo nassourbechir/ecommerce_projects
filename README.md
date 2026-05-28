@@ -55,7 +55,8 @@ The project includes the following features:
 # Screenshots
 
 ## Homepage
-![Homepage](images/homepage.png)
+![Homepage](images/<img width="1913" height="489" alt="home" src="https://github.com/user-attachments/assets/15f3d25d-b765-44af-bd7d-a78cd5712b9b" />
+home.png.png)
 
 ## Product Collection
 ![Products](images/products.png)
