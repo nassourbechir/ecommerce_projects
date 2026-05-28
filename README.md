@@ -59,10 +59,12 @@ The project includes the following features:
 home.png.png)
 
 ## Product Collection
-![Products](images/products.png)
+![Products](images/<img width="1858" height="697" alt="products" src="https://github.com/user-attachments/assets/8c93b344-212f-4372-a35e-fb9682405302" />
+products.png)
 
 ## Product Page
-![Product Page](images/<img width="1858" height="697" alt="productspage" src="https://github.com/user-attachments/assets/116a3f30-87aa-4a87-ab12-9bb14cbd52a0" />
+![Product Page](images/<img width="1889" height="660" alt="productspage" src="https://github.com/user-attachments/assets/ffd5c484-1003-49e1-99d5-8e754d331f83" />
+>
 productpage.png)
 
 ## Privacy Policy Page
